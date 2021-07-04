@@ -1,0 +1,67 @@
+.half-contant{
+    padding: 5%;
+    width: 100%;
+    
+}
+.half-contant img{
+    width: 100%;
+}
+section{
+    display: flex;
+    margin: 0px 0px 12px 0px;
+    
+}
+.anchor{
+    text-decoration: none;
+    font-weight: 600;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 6px;
+
+}
+.cornerimg{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
+body{
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.anchor-button{
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: 600;
+}
+.carde{
+    
+    width:40%;
+    margin-left: 5%;
+    padding-left: 3%;
+    border-left: 5px solid orange;
+    
+    border-radius: 10px;
+    
+    
+}
+.cercall{
+   
+    background-repeat: no-repeat;
+    
+    float: right;
+    margin: -423px 0px;
+    
+    
+    
+    
+
+    
+}
